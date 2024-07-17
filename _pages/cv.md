@@ -39,19 +39,20 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
+<!---
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+--->
 Service and leadership
 ======
 * **2023 - Member of the Institute of Marine Science Students Coordination Team**, F.MacKechnie, S.Thomas & A.Lhériau-Nice, _Aotearoa New Zealand_. <u>Achievement:</u> Weekly seminars and yearly event organisation.
