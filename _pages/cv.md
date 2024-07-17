@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Alexandre Lheriau-Nice"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,35 +11,28 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 2021-2024 (expected) - Ph.D., The University of Auckland, Aotearoa New Zealand. Thesis: Physical-biological interactions in the Hauraki Gulf: how do coastal fronts impact planktonic ecosystems?
+* 2020-2021 - Master in Marine Management, University centre of the Westfjords, Ísafjördur, Iceland. Courses: Local communities and indigenous people engagement in the Arctic, Arctic Law, Maritime Law.
+* 2018-2020 - Master in Marine Sciences, specialisation Ecosystem functioning, Sorbonne University, Paris, France. Courses: Oceanography, Scientific methodology, Marine ecology, GIS, Statistics, Eco-regionalisation, Environmental Law.
+* 2015-2018 - Bio-Engineering school and Bachelor in Life Sciences, Sorbonne University, Paris, France. Courses: Modelling, Phylogeny, Biochemistry, Physiology, Biology applied statistics and mathematics.
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Oct 2023 - Sea-going scientist, Pr.Roughan M., RV Investigator, Tasman Sea. Achievement: Characterising eddies interactions in the Tasman Sea, plankton imaging, CTD sampling.
+* May 2023 to Jun 2023 - Teaching assistant, The University of Auckland, Aotearoa New Zealand. Achievement: Teaching scientific programming, oceanography, marine ecology.
+* Nov 2022 to Jun 2024 - Data Collector, NIWA - Taiho Nukurangi, Aotearoa New Zealand. Achievement: Field survey on fish stocks using recreational fishery catches.
+* Mar 2021 - Sea-going scientist, Marine & Freshwater Research institute, Iceland. Achievement: Engagement in long-term survey of fish communities in the North Atlantic & Iceland Sea.
+* Jan to Jun 2020 - Study of A.anguilla ecology and condition in estuaries, Pr R.Amara & Dr J.Denis, ULCO, France. Achievement: Publication into a scientific report for contributing to ecological monitoring of french estuaries in the
+Northern Sea.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Language: French - Native | English - Fluent | Spanish/Icelandic - Notions.
+* Presentations: Undergraduates, general tourism audience, conferences.
+* Writing: Peer-reviewed articles, Thesis, Scientific reports.
+* Field related: Work at sea, SCUBA diving (CMAS 2, Nitrox, SSI rescue), Project management, Laboratory work.
+* IT: Python, R, LaTex, Microsoft Office.
+* Interpersonal: Team work, Effective communication, Open to cross-cultural communication.
 
 Publications
 ======
@@ -61,4 +54,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 2023 - Member of the Institute of Marine Science Students Coordination Team, F.MacKechnie, S.Thomas & A.Lhériau-Nice, Aotearoa New Zealand. Achievement: Weekly seminars and yearly event organisation.
+* Apr 2023 - Waiheke Marine Project, Dr. M.Sea, Aotearoa New Zealand. Achievement: Contribution to crayfish population monitoring in Waiheke Island.
