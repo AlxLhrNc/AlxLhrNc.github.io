@@ -27,7 +27,7 @@ Northern Sea.
   
 Skills
 ======
-* **Language:** French - Native | English - Fluent | Spanish/Icelandic - Notions.
+* **Language:** _French_ - Native; _English_ - Fluent;  _Spanish/Icelandic_ - Notions.
 * **Presentations:** Undergraduates, general tourism audience, conferences.
 * **Writing:** Peer-reviewed articles, Thesis, Scientific reports.
 * **Field related:** Work at sea, SCUBA diving (CMAS 2, Nitrox, SSI rescue), Project management, Laboratory work.
