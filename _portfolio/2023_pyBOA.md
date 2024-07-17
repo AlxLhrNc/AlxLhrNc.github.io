@@ -17,3 +17,6 @@ Additions: Generalized contextual filter, rolling percentile selection, morpholo
 What to get: The sample netcdf file, the stnd_alone file, and pyBOA.py.
 
 Important This works as an extension of the xarray packages and was built under python 3.9.
+
+<img src='/images/500x300.png' width="1000">
+_Example of output, overlaying chlorophyll-a (viridis collormap) and fronts (red)_
