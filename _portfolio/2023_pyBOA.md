@@ -2,6 +2,8 @@
 title: "pyBOA"
 excerpt: "Frontal detection using chlorophyll<br/><img src='/images/500x300.png'>"
 collection: portfolio
+date: 2022-12-19
+citation: "Lhériau-Nice, A. (2023). pyBOA: Contextual front detection (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.8135921."
 ---
 
 Detection algorithm for oceanographic data (specifically chlorophyl / temperature but can be used for others) accessible on [Zenodo](https://doi.org/10.5281/zenodo.8135921).
@@ -15,6 +17,3 @@ Additions: Generalized contextual filter, rolling percentile selection, morpholo
 What to get: The sample netcdf file, the stnd_alone file, and pyBOA.py.
 
 Important This works as an extension of the xarray packages and was built under python 3.9.
-
-Prefered citation:
-Lhériau-Nice, A. (2023). pyBOA: Contextual front detection (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.8135921.
