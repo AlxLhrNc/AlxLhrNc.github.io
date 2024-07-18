@@ -1,5 +1,5 @@
 ---
-title: "Assessing the Impact of Transportation on Seal Behaviour: A Case Study from Ísafjörður, Iceland"
+title: "Variability of fine‐scale chlorophyll fronts in the Tīkapa Moana Te Moananui ā Toi Hauraki Gulf, Aotearoa New Zealand"
 collection: publications
 permalink: /publication/2024_02_27_JGROcean_NZ
 excerpt: "Showing correlations between human transport and seals behaviour in the Westfjords, Iceland."
@@ -7,7 +7,7 @@ date: 2024-03-11
 venue: 'JGR: Ocean'
 # slidesurl: 'http://alxlhrnc.github.io/files/slides1.pdf'
 paperurl: 'https://doi.org/10.1029/2023JC020391'
-citation: 'Lhériau‐Nice, A., & Della Penna, A.(2024). &quot;Variability of fine‐scalechlorophyll fronts in the Tīkapa Moana TeMoananui ā Toi Hauraki Gulf, Aotearoa New Zealand&quot;. <i>Journal of Geophysical Research: Oceans</i>, 129, e2023JC020391. https://doi.org/10.1029/2023JC020391.'
+citation: 'Lhériau‐Nice, A., & Della Penna, A.(2024). &quot;Variability of fine‐scale chlorophyll fronts in the Tīkapa Moana Te Moananui ā Toi Hauraki Gulf, Aotearoa New Zealand&quot;. <i>Journal of Geophysical Research: Oceans</i>, 129, e2023JC020391. https://doi.org/10.1029/2023JC020391.'
 ---
 
 # AbstractAotearoa 
