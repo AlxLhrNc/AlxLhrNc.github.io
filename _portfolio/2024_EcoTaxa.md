@@ -29,3 +29,5 @@ Alice Della Penna, Alexandre Lhériau-Nice, Anne Fleur van Leeuwen, Claire van E
 <img src='/images/Rhizosolenia_robusta.jpg' height="200"/>
 
 Project access: [EcoTaxa](https://ecotaxa.obs-vlfr.fr/prj/11231).
+
+Example of diversity analysis: [Post](https://alxlhrnc.github.io/portfolio/2024_EcoTaxa_analysis/) and [Code](https://github.com/AlxLhrNc/EcoTaxa-Analysis).
