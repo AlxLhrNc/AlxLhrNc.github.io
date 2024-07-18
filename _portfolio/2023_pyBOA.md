@@ -1,6 +1,6 @@
 ---
 title: "pyBOA"
-excerpt: "Frontal detection using chlorophyll<br/><img src='/images/500x300.png'>"
+excerpt: "Frontal detection using chlorophyll<br/><img src='/images/raw_chl.png' width="500">"
 collection: portfolio
 date: 2022-12-19
 citation: "Lhériau-Nice, A. (2023). pyBOA: Contextual front detection (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.8135921."
@@ -18,5 +18,5 @@ What to get: The sample netcdf file, the stnd_alone file, and pyBOA.py.
 
 Important This works as an extension of the xarray packages and was built under python 3.9.
 
-<img src='/images/500x300.png' width="1000">
+<img src='/images/example_pyBOA.png' width="1000">
 _Example of output, overlaying chlorophyll-a (viridis collormap) and fronts (red)_
