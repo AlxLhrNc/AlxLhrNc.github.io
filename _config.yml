@@ -39,7 +39,7 @@ author:
   orcid            : "http://orcid.org/0000-0002-7221-1232"
   semantic         : # URL
   pubmed           : # URL
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Alexandre-Lheriau-Nice"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -59,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "alexandre-lheriau-nice"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
