@@ -1,6 +1,6 @@
 ---
 title: "pyBOA"
-excerpt: "Frontal detection using chlorophyll<br/><img src='/images/raw_chl.png' width="500">"
+excerpt: "Frontal detection using chlorophyll<br/><img src='/images/raw_chl.png' width='500'>"
 collection: portfolio
 date: 2022-12-19
 citation: "Lhériau-Nice, A. (2023). pyBOA: Contextual front detection (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.8135921."
