@@ -13,7 +13,7 @@ Education
 ======
 * **2021-2024 (expected) - Ph.D.**, The University of Auckland, _Aotearoa New Zealand_.
   <u>Thesis:</u> Physical-biological interactions in the Hauraki Gulf: how do coastal fronts impact planktonic ecosystems?
-* **2020-2021 - Master in Marine Management**, University centre of the Westfjords, _Ísafjördur, Iceland_.
+* **2020-2021 - Courses in Marine Management**, University centre of the Westfjords, _Ísafjördur, Iceland_.
   <u>Courses:</u> Local communities and indigenous people engagement in the Arctic, Arctic Law, Maritime Law.
 * **2018-2020 - Master in Marine Sciences**, specialisation Ecosystem functioning, Sorbonne University, _Paris, France_.
   <u>Courses:</u> Oceanography, Scientific methodology, Marine ecology, GIS, Statistics, Eco-regionalisation, Environmental Law.
