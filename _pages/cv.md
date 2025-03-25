@@ -11,36 +11,52 @@ redirect_from:
 
 Education
 ======
-* **2021-2024 (expected) - Ph.D.**, The University of Auckland, _Aotearoa New Zealand_.
-  <u>Thesis:</u> Physical-biological interactions in the Hauraki Gulf: how do coastal fronts impact planktonic ecosystems?
-* **2020-2021 - Courses in Marine Management**, University centre of the Westfjords, _Ísafjördur, Iceland_.
-  <u>Courses:</u> Local communities and indigenous people engagement in the Arctic, Arctic Law, Maritime Law.
-* **2018-2020 - Master in Marine Sciences**, specialisation Ecosystem functioning, Sorbonne University, _Paris, France_.
-  <u>Courses:</u> Oceanography, Scientific methodology, Marine ecology, GIS, Statistics, Eco-regionalisation, Environmental Law.
-* **2015-2018 - Bio-Engineering school and Bachelor in Life Sciences**, Sorbonne University, _Paris, France_.
-  <u>Courses:</u> Modelling, Phylogeny, Biochemistry, Physiology, Biology applied statistics and mathematics.
+* **Ph.D. - 2021-2024 (under examination)**, The University of Auckland, _Aotearoa New Zealand_.
+
+* **Courses in Marine Management - 2020-2021**, University centre of the Westfjords, _Ísafjördur, Iceland_.
+
+* **Master in Marine Sciences - 2018-2020**, specialisation Ecosystem functioning, Sorbonne University, _Paris, France_.
+
+* **Bio-Engineering school and Bachelor in Life Sciences - 2015-2018**, Sorbonne University, _Paris, France_.
 
 Work experience
 ======
-* **Oct 2023 - Sea-going scientist**, Pr.Roughan M., _RV Investigator, Tasman Sea_.
-  <u>Achievement:</u> Characterising eddies interactions in the Tasman Sea, plankton imaging, CTD sampling.
-* **May 2023 to Jun 2023 - Teaching assistant**, The University of Auckland, _Aotearoa New Zealand_.
-  <u>Achievement:</u> Teaching scientific programming, oceanography, marine ecology.
-* **Nov 2022 to Jun 2024 - Data Collector**, NIWA - Taiho Nukurangi, _Aotearoa New Zealand_.
-  <u>Achievement:</u> Field survey on fish stocks using recreational fishery catches.
-* **Mar 2021 - Sea-going scientist**, Marine & Freshwater Research institute, _Iceland_.
-  <u>Achievement:</u> Engagement in long-term survey of fish communities in the North Atlantic & Iceland Sea.
-* **Jan to Jun 2020 - Study of A.anguilla ecology and condition in estuaries**, Pr R.Amara & Dr J.Denis, _ULCO, France_.
-  <u>Achievement:</u> Publication into a scientific report for contributing to ecological monitoring of french estuaries in the Northern Sea.
+* **Research fellow - Jan to May 2025**, Oceanly Science Ltd, _Aotearoa New Zealand_
+  <u>Achievement:</u>
+    - QAQC of ocean drifters GPS position information.
+    - Velocity calculation and data interpolation from satellite.
+* **Research assistant - Nov 2024 to Feb 2025**, The University of Auckland, _Aotearoa New Zealand_
+  <u>Achievement:</u>
+    - Maintained an existing Python code aimed at assessing coastal erosion.
+    - Contributed to ongoing studies of the effect of coastal erosion on Aotearoa New Zealand
+* **Ph.D. - 2021-2024**, The University of Auckland, _Aotearoa New Zealand_
+  <u>Achievement:</u>
+    - Led study which aimed at understanding the physical-biological coupling in coastal environments.
+    - Authored multiple scientific publications & presentations.
+* **Sea-going scientist - 2021 & 2023**, MFRI (ISL) & CSIRO (AUS), _Icelandic & Tasman Sea_
+  <u>Achievement:</u>
+    - Conducted oceanographic field research including eddy interaction studies and long-term fish community surveys.
+    - Managed data collection along with CTD samplin and plankton imaging.
+* **Teaching assistant - May 2023 to Jun 2023**, The University of Auckland, _Aotearoa New Zealand_
+  <u>Achievement:</u>
+    - Taught scientific programming in MatLab and Python.
+    - Covered basic courses of physics and oceanography with marine ecology focus.
+* **Data Collector - Nov 2022 to Jun 2024**, NIWA - Taiho Nukurangi, _Aotearoa New Zealand_
+  <u>Achievement:</u>
+    - Field survey on fish stocks using recreational fishery catches.
+* **Jan to Jun 2020 - Study of A.anguilla ecology and condition in estuaries**, ULCO, _France_.
+  <u>Achievement:</u>
+    - Publication into a scientific report for contributing to ecological monitoring of french estuaries in the Northern Sea.
   
 Skills
 ======
-* **Language:** _French_ - Native; _English_ - Fluent;  _Spanish/Icelandic_ - Notions.
-* **Presentations:** Undergraduates, general tourism audience, conferences.
-* **Writing:** Peer-reviewed articles, Thesis, Scientific reports.
-* **Field related:** Work at sea, SCUBA diving (CMAS 2, Nitrox, SSI rescue), Project management, Laboratory work.
-* **IT:** Python, R, LaTex, Microsoft Office.
-* **Interpersonal:** Team work, Effective communication, Open to cross-cultural communication.
+* **Language:** French (Native), English (Fluent), Spanish & Icelandic (Basic).
+* **Presentations:** Master courses, general tourism audience, conferences.
+* **Writing:** Peer-reviewed articles, Scientific reports.
+* **Field related:** Work at sea, SCUBA diving (CMAS 2, Nitrox, SSI rescue), Project management,
+Laboratory work.
+* **IT:** Python, R, LaTex, MatLab.
+* **Interpersonal:** Team-work, Effective communication, Cross-cultural communication.
 
 Publications
 ======
@@ -62,7 +78,27 @@ Teaching
   {% endfor %}</ul>
 --->
 
-Service and leadership
+Science & Community engagement
 ======
-* **2023 - Member of the Institute of Marine Science Students Coordination Team**, F.MacKechnie, S.Thomas & A.Lhériau-Nice, _Aotearoa New Zealand_. <u>Achievement:</u> Weekly seminars and yearly event organisation.
-* **Apr 2023 - Waiheke Marine Project**, Dr. M.Sea, _Aotearoa New Zealand_. <u>Achievement:</u> SCUBA diver in crayfish population monitoring in Waiheke Island.
+* **Public plankton database for the Hauraki Gulf - 2024**, Lhériau-Nice A. et al, _Aotearoa NZ_
+  <u>Achievement:</u>
+  - Created and uploaded plankton imaging datasets this EcoTaxa project.
+  - Trained AI models for image verification and enhanced regional ecological analysis.
+
+* **pyBOA: Contextual front detection - 2023**, Lhériau-Nice A., _Aotearoa NZ_
+  <u>Achievement:</u>
+    - Developed and published software for identifying biologically active ocean fronts (accessible via Zenodo).
+
+* **Student Coordinator, Institute of Marine Science - 2023**, F.MacKechnie, S.Thomas & A.Lhériau-
+Nice, _Aotearoa New Zealand_
+  <u>Achievement:</u>
+    - Organised weekly seminars and an annual student event to foster collaboration and knowledge exchange.
+
+* **Waiheke Marine Project - Apr 2023**, Dr. M.Sea, _Aotearoa New Zealand_
+  <u>Achievement:</u>
+    - Contributed to crayfish population monitoring and data collection to support restoration efforts.
+
+* **Self funded research field trip - Jun to Aug 2021**, Millesi-Gaches D. & Lhériau-Nice A., _Vigur,
+Iceland_
+  <u>Achievement:</u>
+    - Conducted & published bird censuses and seal behavior observations.
