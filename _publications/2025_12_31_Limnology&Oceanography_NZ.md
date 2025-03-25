@@ -7,7 +7,7 @@ date: 2025-12-31
 venue: 'Limnology and Oceanography'
 # slidesurl: 'http://alxlhrnc.github.io/files/slides1.pdf'
 # paperurl: 'https://doi.org/10.32866/001c.120040'
-citation: 'Lhériau-Nice, A., Cook, D.G., Della Penna A., under-review. &quot;Diverse assemblages of highly mobile pelagic species co-occur with fine scale ocean fronts&quot; <i>Limnology and Oceanography</i>.''
+citation: 'Lhériau-Nice, A., Cook, D.G., Della Penna A., under-review. &quot;Diverse assemblages of highly mobile pelagic species co-occur with fine scale ocean fronts&quot; <i>Limnology and Oceanography</i>.'
 ---
 
 # Abstract
