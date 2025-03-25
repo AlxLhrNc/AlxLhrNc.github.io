@@ -50,7 +50,7 @@ Work experience
   
 Skills
 ======
-* **Language:** French (Native), English (Fluent), Spanish & Icelandic (Basic).
+* **Language:** French (_Native_), English (_Fluent_), Spanish & Icelandic (_Basic_).
 * **Presentations:** Master courses, general tourism audience, conferences.
 * **Writing:** Peer-reviewed articles, Scientific reports.
 * **Field related:** Work at sea, SCUBA diving (CMAS 2, Nitrox, SSI rescue), Project management,
