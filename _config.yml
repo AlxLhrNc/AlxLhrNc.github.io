@@ -25,8 +25,7 @@ author:
   name             : "Alexandre Lheriau-Nice"
   pronouns         : "He/They"  
   bio              : "Oceanographer,<br>
-                      IMS,<br>
-                      University of Auckland."
+                      Oceanly Science Ltd."
   location         : "Aotearoa NZ"
   employer         : 
   uri              : # URL
@@ -190,7 +189,7 @@ incremental: false
 
 # Markdown Processing
 kramdown:
-  input: kramdown
+  input: GFM
   hard_wrap: false
   auto_ids: true
   footnote_nr: 1
