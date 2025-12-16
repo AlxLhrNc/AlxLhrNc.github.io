@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* **Ph.D. - 2021-2024 (under examination)**, The University of Auckland, _Aotearoa New Zealand_.
+* **Ph.D. - 2021-2024**, The University of Auckland, _Aotearoa New Zealand_.
 
 * **Courses in Marine Management - 2020-2021**, University centre of the Westfjords, _Ísafjördur, Iceland_.
 
@@ -21,10 +21,10 @@ Education
 
 Work experience
 ======
-* **Research fellow - Jan to May 2025**, Oceanly Science Ltd, _Aotearoa New Zealand_<br>
+* **Research fellow - Jan 2025 to current**, Oceanly Science Ltd, _Aotearoa New Zealand_<br>
   <u>Achievement:</u>
-    - QAQC of ocean drifters GPS position information.
-    - Velocity calculation and data interpolation from satellite.
+    - QAQC of ocean drifters GPS position information, velocity calculation and data interpolation from satellite.
+    - Plankton dataset identification and biological oceanography
 * **Research assistant - Nov 2024 to Feb 2025**, The University of Auckland, _Aotearoa New Zealand_<br>
   <u>Achievement:</u>
     - Maintained an existing Python code aimed at assessing coastal erosion.
