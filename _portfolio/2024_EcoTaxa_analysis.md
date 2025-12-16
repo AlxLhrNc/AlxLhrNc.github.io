@@ -20,7 +20,7 @@ Sampling
 The sampling was done accross four dates, time 16 samples, covering two seasons (summer and autumn).
 
 <img src='/images/EcoTaxa/map.png' width="1000">
-_Sampling map with bathymetry as background. Samplings blue and orange done in Summer, teal and green done in Autumn. Credit [David Pierre Milesi-Gaches](https://www.researchgate.net/profile/David-Pierre-Milesi-Gaches)_
+_Sampling map with bathymetry as background. Samplings blue and orange done in Summer, teal and green done in Autumn._ Credit [David Pierre Milesi-Gaches](https://www.researchgate.net/profile/David-Pierre-Milesi-Gaches)
 
 Species composition & Species diversity (α, β, and γ)
 =====
@@ -29,7 +29,7 @@ Getting the α diversity was the easiest, followed by the γ diversity, which I 
 The overall result indicate a shift in species caused by the presence of chlorophyll fronts.
 
 <img src='/images/EcoTaxa/diversity.png' width="1000">
-_Species composition barplots and diversity indexes lines. Credit [David Pierre Milesi-Gaches](https://www.researchgate.net/profile/David-Pierre-Milesi-Gaches)_
+_Species composition barplots and diversity indexes lines._ Credit [David Pierre Milesi-Gaches](https://www.researchgate.net/profile/David-Pierre-Milesi-Gaches)
 
 
 For more information on the methods and results, please go to the [article](https://alxlhrnc.github.io/publication/2025_10_14_Marine&FreshwaterResearch_NZ). For the code, please go to the [github project](https://github.com/AlxLhrNc/EcoTaxa-Analysis).
