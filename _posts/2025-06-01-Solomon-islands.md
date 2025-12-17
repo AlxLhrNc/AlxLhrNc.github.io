@@ -1,6 +1,6 @@
 ---
-title: 'The EAC eddy tracking'
-excerpt: "Three weeks on board the RV-Investigator."
+title: 'Solomon Islands expedition'
+excerpt: "Three weeks on board the RV-Hydra."
 date: 2025-06-1
 permalink: /posts/2022/06/Solomon-islands
 tags:
@@ -12,3 +12,4 @@ tags:
 More too come about this soon ...
 ‿︵‿︵‿︵‿︵‿︵‿︵
            <º))))><
+
