@@ -9,7 +9,7 @@ These analysis were done in the context of my Ph.D. at the University of Aucklan
 
 The analysis was done exclusively on R 4.0.1, using a code similar to the one available on [my github](https://github.com/AlxLhrNc/EcoTaxa-Analysis). Information on the EcoTaxa project 11231 is also [available here](https://alxlhrnc.github.io/portfolio/2024_EcoTaxa/).
 
-While the draft images where done on R using ggplot2, the figures used in the resulting [article](https://alxlhrnc.github.io/publication/2025_12_31_Marine&FreshwaterResearch_NZ) were edited by [David Pierre Milesi-Gaches](https://www.researchgate.net/profile/David-Pierre-Milesi-Gaches) using Inkscape. This significantly improved their readability.
+While the draft images where done on R using ggplot2, the figures used in the resulting [article](https://alxlhrnc.github.io/publication/2025_05_23_Marine&FreshwaterResearch_NZ) were edited by [David Pierre Milesi-Gaches](https://www.researchgate.net/profile/David-Pierre-Milesi-Gaches) using Inkscape. This significantly improved their readability.
 
 Pre-processing of the data
 ======
