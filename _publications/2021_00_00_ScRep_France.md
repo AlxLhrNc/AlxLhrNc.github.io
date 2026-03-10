@@ -1,7 +1,7 @@
 ---
 title: "Suivi des poissons migrateurs amphihalins en zones estuariennes Inventaire, suivi, état des lieux des populations au niveau du Parc Naturel Marin des Estuaires Picards et de la Mer d’Opale"
 collection: publications
-permalink: /publication/2024_2_BCN_Iceland
+permalink: /publication/2021_00_ScRep_France
 excerpt: "Scientific report describing the condition of European Eels in the north of France."
 date: 2021-01-01
 venue: 'Scientific Reports'
