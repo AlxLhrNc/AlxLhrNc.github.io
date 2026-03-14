@@ -1,8 +1,8 @@
 ---
-title: 'The EAC eddy tracking'
-excerpt: "Three weeks on board the RV-Investigator."
+title: 'Bio-Oceanography in the Solomons'
+excerpt: "Three weeks on board RV-Hydra."
 date: 2025-06-1
-permalink: /posts/2022/06/Solomon-islands
+permalink: /posts/2025/06/Solomon-islands
 tags:
   - Oceanography
   - Field work
@@ -17,11 +17,11 @@ Spending 5 days to test for Covid prior to traveling gave me time to work, do a 
 
 Solomons
 =====
-Hydra's crew and equipment was mind blowing. Sure, the niskins were a bit small (2L) when compared to the Investigator's (12L), but I still got to do very good stuff. CTD 12h cast were interesting too, and there even was 2 submarines, not that I was able to get  on one though. Little sad about this, but there is always next time, right?
+Hydra's crew and equipment was mind blowing. Sure, the niskins were a bit small (2L) when compared to the Investigator's (12L), but I still got to do very good stuff. CTD 12h cast were interesting too, and there even was 2 submarines, not that I was able to get on one though. Little sad about this, but there is always next time, right?
 
 <img src='/images/Solomons/hydra.jpg' width="1000">
 
-_Photo taken from Hydra._ Credit: S.Lawton
+_Photo of Hydra._ Credit: S.Lawton
 
 ‿︵‿︵‿︵‿︵‿︵‿︵
            <º))))><
