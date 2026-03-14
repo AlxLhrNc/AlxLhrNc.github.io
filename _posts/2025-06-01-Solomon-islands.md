@@ -21,7 +21,7 @@ Hydra's crew and equipment was mind blowing. Sure, the niskins were a bit small 
 
 <img src='/images/Solomons/hydra.jpg' width="1000">
 
-_Photo of Hydra._ Credit: S.Lawton
+_Photo of Hydra._ Credit: [S.Lawton](https://www.instagram.com/stevolawton/)
 
 ‿︵‿︵‿︵‿︵‿︵‿︵
            <º))))><
