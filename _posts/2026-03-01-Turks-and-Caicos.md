@@ -23,7 +23,7 @@ Hydra
 =====
 Hydra's crew was amazing, as always. And we got 9 new niskin bottles of 12L, which meant more water sample!! That was really nice considering there was two of us needing them. We were also able to use a multispectral drone to see specific wavelength and try targeting internal waves from above! That really made me want to get a drone pilot licence. I'll add that to my 2026 to-do list.
 
-<img src='/images/Turks&Caicos/_MG_5416.jpg' width="1000">
+<img src='/images/Turks&Caicos/hydra.jpg' width="1000">
 
 _Photo of Hydra._ Credit: [J.Braatvedt](https://www.julzbraatvedt.com/)
 
