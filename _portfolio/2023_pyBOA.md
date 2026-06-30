@@ -5,7 +5,7 @@ collection: portfolio
 date: 2022-12-19
 citation: "Lhériau-Nice, A. (2023). pyBOA: Contextual front detection (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.8135921."
 ---
-Science suggest that not ocean fronts are alike when considering biological standpoints. That gradients can be just as valid given the signature of some active fronts. But the histogram method can miss them, hence the creation of the pyBOA to generalise a gradient based algorithm to the larger community.
+Science suggest that not all ocean fronts are alike when considering biological standpoints. That gradients can be just as valid as histogram methods given the signature of some active fronts. But the histogram method can miss them, hence the creation of the pyBOA to generalise a gradient based algorithm to the larger community.
 
 This detection algorithm is for oceanographic data (specifically chlorophyl / temperature but can be used for others), and is accessible on [Zenodo](https://doi.org/10.5281/zenodo.8135921) and through my [Github](https://github.com/AlxLhrNc/pyBOA).
 
